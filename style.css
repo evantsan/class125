@@ -1,0 +1,41 @@
+#headd
+{
+    background-color:#79E0EE;
+    padding: 15px;
+}
+h2
+{
+    color:blueviolet;
+    font-weight: bold;
+}
+h4
+{
+    color: blueviolet;
+    font-size:x-large;
+}
+h3{
+    color: red;
+}
+#footer
+{
+    background-color: #D0F5BE;
+    padding: 20px;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    text-shadow: 1px 2px;
+    font-size: xx-large;
+    font-weight: bold;
+    margin:0;
+}
+body{
+    background-color: #98EECC;
+}
+canvas, video{
+    height: 600px;
+    width: 700px;
+    border: 5px black ridge;
+    box-shadow: 10px 10px 3px rgb(34, 33, 33);
+}
+
